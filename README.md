@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niromy98
 - 👀 I’m interested in Image Processing
 - 🌱 I’m currently learning digitalizing hand written form document (Ex:- Bank slips)
-- 💞️ I’m looking to collaborate on effective preprocessing techniques for hand written forms.
+- 💞️ I’m looking to collaborate on effective preprocessing techniques for hand written forms using python.
 - 📫 How to reach me niromy98@gmail.com
 
 <!---
